@@ -1,11 +1,11 @@
 # Qingran Li 
 
-> Radon | +86 18624261053 | ql91565@citi.com 
+><img src="/Users/pc-rn/同步空间/write-sth/Radon-CV.assets/icon-circle.png" alt="Radon-icon" style="float:right; zoom:50%;" />
+>Radon | +86 18624261053 | ql91565@citi.com 
 >
 > 15 Yrs. | Citigroup Service and Technology (China) Limited
 >
 > Dalian, China
-
 
 ## About
 
@@ -13,19 +13,23 @@
 
 Familiar with banking system architecture, rich experience in system architecture, technical architecture, data architecture, operation and maintenance architecture planning and design.
 
+2 times/years Market Technoloogy Hackson,  
+
+4 times/years of innovation awads in CSTC.
+
 ## Experience
 
 **Citigroup**
 
 <u>*Sep 2022 - To Present | Finance Risk Technology | Tech Lead AVP*</u>
 
-Responsible deliver new business initiative through POC to production delivery with project roadmap and agile plans
+* Responsible deliver new business initiative through POC to production delivery with project roadmap and agile plans
 
-Mentoring and coaching staff in daily work. Listen to members’ feedback and help them to develop their strength.
+* Mentoring and coaching staff in daily work. Listen to members’ feedback and help them to develop their strength.
 
 <u>*Aug 2011 - Sep 2022 | PBWMT | Development Lead AVP*</u>
 
-Demand Management,Solution Design, Development, Team management, Innovative Work
+* Demand Management,Solution Design, Development, Team management, Innovative Work
 
 **Computer Sciences Corporation**
 
@@ -110,4 +114,6 @@ Skills
 Interests
 --------
 
-> 
+> 1. Solution for Unit Test Coding Automation
+>
+> 2. Solution for efficent insights of work emails,  automate email rules
