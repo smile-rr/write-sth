@@ -1,6 +1,6 @@
 # Qingran Li 
 
-><img src="/Users/pc-rn/同步空间/write-sth/Radon-CV.assets/icon-circle.png" alt="Radon-icon" style="float:right; zoom:50%;" />
+><img src="./Radon-CV.assets/icon-circle.png" alt="Radon-icon" style="float:right; zoom:50%;" />
 >Radon | +86 18624261053 | ql91565@citi.com 
 >
 > 15 Yrs. | Citigroup Service and Technology (China) Limited
