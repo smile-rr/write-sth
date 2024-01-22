@@ -1,119 +1,126 @@
-# Qingran Li 
+Qingran Li
+==========
 
-><img src="./Radon-CV.assets/icon-circle.png" alt="Radon-icon" style="float:right; zoom:50%;" />
->Radon | +86 18624261053 | ql91565@citi.com 
+>   Radon \| +86 18624261053 \| ql91565\@citi.com
 >
-> 15 Yrs. | Citigroup Service and Technology (China) Limited
+>   15 Yrs. \| Citigroup Service and Technology (China) Limited
 >
-> Dalian, China
+>   Dalian, China
 
-## About
+About
+-----
 
-14 years of Citibank system development, architecture design, project management work experience; Responsible for architecture design, program design core function development, etc. Familiar with the credit card loan business process, as the leader of the project technology framework, design and develop new functions to support business needs.
+- 14 years expereince in Citibank system architecture / solution design,  development and project management.
+- Hands on experience in building UI, API, Data Modeling, Rule base data analysis, Monitoring  solution POC and delivery.
+- Domain Expert in Banking Architeture,  specially in Credit and Loan Products
+- 2 Hackathon expierence in Market Technology: C-Link(2023),  Freewill(2022)
+- 4 Innovation awards in CSTC :  Microservice Code Automation(2022), Credit Platform Monitoring(2019),  Credit Data & Flow Insights(2018), Testing Bot Automation Framework(2017)
 
-Familiar with banking system architecture, rich experience in system architecture, technical architecture, data architecture, operation and maintenance architecture planning and design.
+Experience
+----------
 
-2 times/years Market Technoloogy Hackson,  
+**Citigroup | Finance Risk Technology** | Tech Lead AVP | *Sep 2022 - To Present*
 
-4 times/years of innovation awads in CSTC.
+-   Responsible deliver new business initiative through POC to production
+    delivery with project roadmap and agile plans
 
-## Experience
+-   Mentoring and coaching staff and help them to take ownership.
 
-**Citigroup**
+**Citigroup | PBWMT** | Development Lead AVP | *Aug 2011 - Sep 2022*
 
-<u>*Sep 2022 - To Present | Finance Risk Technology | Tech Lead AVP*</u>
+-   Demand Management,Solution Design, Development, Team management, Innovative
+    Work
 
-* Responsible deliver new business initiative through POC to production delivery with project roadmap and agile plans
+**Computer Sciences Corporation** | Senior Software Engineer | *Jul 2009 - Aug 2011*
 
-* Mentoring and coaching staff in daily work. Listen to members’ feedback and help them to develop their strength.
+-   Development: As a member of the outsourcing team, participate in the
+    Citibank system developm ent work, using JS, JAVA, Tibco Web Service and
+    other technologies for development. After completing the s ystem development
+    and testing, deploy the system to the Citi user test system and transfer it
+    to Citi colleague s
 
-<u>*Aug 2011 - Sep 2022 | PBWMT | Development Lead AVP*</u>
+-   Main Projects: Citibank Southeast Asia Credit System, CI Project Framework
+    Migration, Citibank North A sia Credit Project (Hong Kong, Taiwan, Japan).
 
-* Demand Management,Solution Design, Development, Team management, Innovative Work
+**Dalian Hi-Think Computer Technology Corp.** | Software Engineer | *Aug 2007 - Jul 2009*
 
-**Computer Sciences Corporation**
-
-<u>*Jul 2009 - Aug 2011 | Senior Software Engineer*</u>
-
-* Development: As a member of the outsourcing team, participate in the Citibank system developm ent work, using JS, JAVA, Tibco Web Service and other technologies for development. After completing the s ystem development and testing, deploy the system to the Citi user test system and transfer it to Citi colleague s
-
-* Main Projects: Citibank Southeast Asia Credit System, CI Project Framework Migration, Citibank North A sia Credit Project (Hong Kong, Taiwan, Japan).
-
-**Dalian Hi-Think Computer Technology Corp.**
-
-<u>*Aug 2007 - Jul 2009 | Software Engineer*</u>
-
-* Participate in the development and testing of the Japanese supermarket chain data collection and analysis system, develop according to the design document, and solve the technical problems encountered in the system implementation process.
-
-* Actively innovate and write automation tools, saving a lot of inefficient operation time for project
+-   Participate in system core function development. actively solve technical challenges
+-   Self initiated to write automation tool saved 80% manual testing work for the team.
 
 Projects
------------------
-**RWA Analytic Tools**  | *Apr 2023 - Present* 
+--------
 
-* Build a Data Analytical platform to automate data quality validations. It includes UIs for business to build quality rules and manage the rule lifecycle. Supports rule simulation, online and batch execution against with millions of transaction data.
+**RWA Analytic Tool** \| *Apr 2023 - Present*
 
-* Tech Stack:Development frameworks: Angular, SpringBoot, SpringBatch, Spark, Tableau 2. Monitoring and alarm: AppDynamics, Splunk
+-   Build a Data Analytical platform to automate data quality validations. It
+    includes UIs for business to build quality rules and manage the rule
+    lifecycle. Supports rule simulation, online and batch execution against with
+    millions of transaction data.
 
-**SG，HK Mortgage Digitalization Project Phase 2** | *Nov 2021 - Sep 2021*
+-   Tech Stack:Development frameworks: Angular, SpringBoot, SpringBatch, Spark,
+    Tableau 2. Monitoring and alarm: AppDynamics, Splunk
 
-* Build MicroService ALL APIs from 0 to full functionality.
+**SG，HK Mortgage Digitalization Project** | *May 2020 - Sep 2022*
 
-* Designed API Data model for across 400 business fields and API, domain, BAUDB mappings. 
+-   Lead 15 members team build DDD based Micro Services and Open APIs from 0 to 1 over Openshift
+-   Build Tools to automate up to 60% code lines including API fields, mappings, validations and DB persistence layer.
+-   Driving cross teams integrations winning as 2021 Flagship project across all GCT Win in Wealth Strategy projects
+-   Successful Customer live for SG, HK with High business recognization on solution and delivery
 
-* Build Automation framework to automate 60% development for around 1000 fields mapping, validation and DB persistence layer.
+**Credit Card Remarkable Customer Experience** \| *Jul 2017 - Sep 2019*
 
-* Exercise and implemented DDD tactical level code base and structure.
+-   The project's high-quality standards have completed the development,
+    testing, and deployment implementation process, first launched in Singapore,
+    and then promoted to Hong Kong, Australia, Malaysia, the Philippines,
+    Indonesia, Vietnam and other countries in the Asia- Pacific region.
 
-* Driving cross CBOL, ESB, CI, APIM team integration testing.
+-   Developed and implemented an API input verification framework based on rule
+    configuration
 
-**SG，HK Mortgage Digitalization Project Phase 1** | *May 2020 - Nov 2021*
-
-* 2021 Flagship project across all GCT Win in Wealth Strategy projects.
-
-* Successful Customer live for Singapore[2021-03], Hongkong[2022-03 InProgress] 
-
-* High quality delivered and low defect rate in each quarterly release
-
-* High business recognization on solution and delivery result
-
-**Credit Card Remarkable Customer Experience** | *Jul 2017 - Sep 2019*
-
-* The project's high-quality standards have completed the development, testing, and deployment implementation process, first launched in Singapore, and then promoted to Hong Kong, Australia, Malaysia, the Philippines, Indonesia, Vietnam and other countries in the Asia- Pacific region.
-
-* Developed and implemented an API input verification framework based on rule configuration
-
-* Developed and implemented the address fuzzy matching algorithm based on Lucence framework to replace the third-party interface.
+-   Developed and implemented the address fuzzy matching algorithm based on
+    Lucence framework to replace the third-party interface.
 
 Education
 ---------
 
-**Dongbei University Of Finance And Economics** 
+**Dongbei University Of Finance And Economics**
 
-*Sep 2016 - Jun 2018 | MBA | Management of Finance*
+*Sep 2016 - Jun 2018 \| MBA \| Management of Finance*
 
-**Qingdao University of Technology** 
+**Qingdao University of Technology**
 
-*Sep 2004 - Jul 2008 | Bachelor | Information Technology*
+*Sep 2004 - Jul 2008 \| Bachelor \| Information Technology*
 
 Skills
 ------
 
-> 1. Core:  Java, Python, Spring Boot, Spring Cloud, JPA, REST/SOAP Web Service
-> 2. Cloud : Certifed AWS Achitect Associate, Openshift, PCF
-> 3. Data: Spark, Spark Sql
-> 4. Messaging : Kafka, Tibco EMS, IBM MQ
-> 5. Monitoring: with Splunk, AppDyanmic monitoring tool use, visual analysis, alarm mechanism
-> 6. BPM : Tibco iProcess, Tibco AMX, JBPM and other business process management frameworks and rule engine technologies 
-> 7. Caching : distributed caching frameworks such as Memcached, Redis, Gemfire, etc.
-> 8. Database : Oracle and MySQL databases, as well as SQL optimization and database performance tuning
-> 9. UI : HTML, JavaScript, CSS, Ajax, Dojo, jQuery, Tibco GI, Angular
-> 10. CICD : Maven, Git/BitBucket, Jenkins, RLM project construction and deployment tools
-> 11. SDLC : JIRA, Confluence, Bitbucket, HP QC project management tools
+>   Core: Java, Python, Spring Boot / Cloud / Batch Frameworks
+>
+>   Cloud : Certifed AWS Solution Achitect, Openshift, PCF
+>
+>   Data: Spark, Spark Sql
+>
+>   Messaging : Kafka, Tibco EMS, IBM MQ
+>
+>   Monitoring:  Splunk, AppDyanmic, ELK
+>
+>   BPM : Tibco AMX, JBPM flow framework, Drools, Blaze rule engine
+>
+>   Caching :  Memcached, Redis, Gemfire
+>
+>   Database : Oracle, MySQL, Sybase, MongoDB databases,  SQL optimization,  Performance Tuning
+>
+>   UI :  Angular, Material Design, ICG Design, Bootstrap
+>
+>   CICD : Maven, BitBucket, Jenkins, RLM, Lightspeed, UDeploy, Release Automation, RoD
+>
+>   SDLC : JIRA, Confluence, Bitbucket, HP QC project management tools
 
 Interests
---------
+---------
 
-> 1. Solution for Unit Test Coding Automation
+>   Photographing
 >
-> 2. Solution for efficent insights of work emails,  automate email rules
+>   Solution for Unit Test Coding Automation
+>
+>   Solution for work emails insights  and automate outlook rules
