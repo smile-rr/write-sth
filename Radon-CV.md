@@ -19,28 +19,26 @@ About
 Experience
 ----------
 
-**Citigroup | Finance Risk Technology** | Tech Lead AVP | *Sep 2022 - To Present*
+**Citigroup | Financial Risk Technology** | Tech Lead AVP | *Sep 2022 - To Present*
 
--   Responsible deliver new business initiative through POC to production
-    delivery with project roadmap and agile plans
+-   Identify common patterns across online, batch projects, build share assets for reusible and efficiency
+-   Build low code platform POCs with project implementation by leveraging Spark SQL, Droos rule engine.
+-   Worked on Risk Data Ingestion with Olympus BigData Platform
+-   Managing team development, establish standard process corss CI/CD, Scrum, etc.
+-   Mentoring and coaching staff on their daily work and ownership.
 
--   Mentoring and coaching staff and help them to take ownership.
+**Citigroup | PBWMT** | Acquisition Project Lead AVP | *Aug 2011 - Sep 2022*
 
-**Citigroup | PBWMT** | Development Lead AVP | *Aug 2011 - Sep 2022*
-
--   Demand Management,Solution Design, Development, Team management, Innovative
-    Work
+-   Managing project demand, solution design, and delivery plan.
+-   Driving key implemention of digitalization of Citi APAC Card, Loan, Mortgage Acquisition projects.
+-   Micro service domain design via DDD terminology, delivery over PCF, Openshift
+-   Establish Monitoring capability for Aqcuisition system via monitoring API, Splunk Dashboard, Alerts
+-   Innovations on Business Data, Technology Data Insights,  Automation of development work.
 
 **Computer Sciences Corporation** | Senior Software Engineer | *Jul 2009 - Aug 2011*
 
--   Development: As a member of the outsourcing team, participate in the
-    Citibank system developm ent work, using JS, JAVA, Tibco Web Service and
-    other technologies for development. After completing the s ystem development
-    and testing, deploy the system to the Citi user test system and transfer it
-    to Citi colleague s
-
--   Main Projects: Citibank Southeast Asia Credit System, CI Project Framework
-    Migration, Citibank North A sia Credit Project (Hong Kong, Taiwan, Japan).
+-   Framework owner to provide key UI, Service features for team to use.
+-   Module Lead to lead credit initiation requirement development.
 
 **Dalian Hi-Think Computer Technology Corp.** | Software Engineer | *Aug 2007 - Jul 2009*
 
@@ -52,13 +50,13 @@ Projects
 
 **RWA Analytic Tool** \| *Apr 2023 - Present*
 
--   Build a Data Analytical platform to automate data quality validations. It
-    includes UIs for business to build quality rules and manage the rule
-    lifecycle. Supports rule simulation, online and batch execution against with
-    millions of transaction data.
+-   ~~Build a Data Analytical platform to automate data quality validations. It~~
+    ~~includes UIs for business to build quality rules and manage the rule~~
+    ~~lifecycle. Supports rule simulation, online and batch execution against with~~
+    ~~millions of transaction data.~~
 
--   Tech Stack:Development frameworks: Angular, SpringBoot, SpringBatch, Spark,
-    Tableau 2. Monitoring and alarm: AppDynamics, Splunk
+-   ~~Tech Stack:Development frameworks: Angular, SpringBoot, SpringBatch, Spark,~~
+    ~~Tableau 2. Monitoring and alarm: AppDynamics, Splunk~~
 
 **SG，HK Mortgage Digitalization Project** | *May 2020 - Sep 2022*
 
@@ -69,16 +67,16 @@ Projects
 
 **Credit Card Remarkable Customer Experience** \| *Jul 2017 - Sep 2019*
 
--   The project's high-quality standards have completed the development,
-    testing, and deployment implementation process, first launched in Singapore,
-    and then promoted to Hong Kong, Australia, Malaysia, the Philippines,
-    Indonesia, Vietnam and other countries in the Asia- Pacific region.
+-   ~~The project's high-quality standards have completed the development,~~
+    ~~testing, and deployment implementation process, first launched in Singapore,~~
+    ~~and then promoted to Hong Kong, Australia, Malaysia, the Philippines,~~
+    ~~Indonesia, Vietnam and other countries in the Asia- Pacific region.~~
 
--   Developed and implemented an API input verification framework based on rule
-    configuration
+-   ~~Developed and implemented an API input verification framework based on rule~~
+    ~~configuration~~
 
--   Developed and implemented the address fuzzy matching algorithm based on
-    Lucence framework to replace the third-party interface.
+-   ~~Developed and implemented the address fuzzy matching algorithm based on~~
+    ~~Lucence framework to replace the third-party interface.~~
 
 Education
 ---------
@@ -98,7 +96,7 @@ Skills
 >
 >   Cloud : Certifed AWS Solution Achitect, Openshift, PCF
 >
->   Data: Spark, Spark Sql
+>   Data: Spark, Spark Sql, Hue, Impala, Hive, OIympus 
 >
 >   Messaging : Kafka, Tibco EMS, IBM MQ
 >
@@ -112,7 +110,7 @@ Skills
 >
 >   UI :  Angular, Material Design, ICG Design, Bootstrap
 >
->   CICD : Maven, BitBucket, Jenkins, RLM, Lightspeed, UDeploy, Release Automation, RoD
+>   CICD : Lightspeed, BitBucket, Jenkins, RLM, UDeploy, Release Automation, RoD,
 >
 >   SDLC : JIRA, Confluence, Bitbucket, HP QC project management tools
 
