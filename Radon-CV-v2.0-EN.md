@@ -45,7 +45,7 @@ Accomplished technology leader with 15+ years of experience in financial service
 **Senior Software Engineer** | *Jul 2009 - Aug 2011*
 
 - **Framework Development**: Owned UI and service frameworks used by development teams
-- **Technical Leadership**: Led credit initiation module development and implementation
+- **Technical Leadership**: Lead credit initiation module development and implementation
 
 ### **Dalian Hi-Think Computer Technology Corp.**
 **Software Engineer** | *Aug 2007 - Jul 2009*
@@ -60,7 +60,7 @@ Accomplished technology leader with 15+ years of experience in financial service
 ### **RWA Analytic Tool** | *Apr 2023 - Present*
 - Built proof-of-concepts using SpringBatch, Drools, and SparkSQL for low-code rule configuration
 - Designed comprehensive solution including batch processing, APIs, UI, and monitoring dashboards
-- Led agile delivery with regular stakeholder demos and feedback incorporation
+- Lead agile delivery with regular stakeholder demos and feedback incorporation
 
 ### **SG & HK Mortgage Digitalization** | *May 2020 - Sep 2022*
 - **Team Leadership**: Managed 15-member team building microservices from ground up
